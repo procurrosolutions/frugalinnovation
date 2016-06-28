@@ -1,4 +1,4 @@
-# frugalinnovation
+#Frugal Innovation Framework
 
 Background
 
